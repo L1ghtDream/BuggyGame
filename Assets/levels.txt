@@ -1,0 +1,35 @@
+Lev els
+1.  [!] Jump on object repetetly for infinite jump.
+2.  [-] Just a button and a box.
+3.  [!] Steal the box from the past level.
+4.  [!] Pause not stoping the movement script bug.
+5.  [!] Grab the door.
+6.  [-] Just a simple parkour with 3 platforms to reach the door.
+7.  [!] Beeing pushed into a wall by a moving platform
+8.  [!] Load a level twice with the LoadLevel Prefab
+9.  [-] Just a speed boost (somehow) ~HoverBoard~
+10. [!] Gain speed and get thru the wall
+11. [!] You can double jump if you spam the space
+
+
+Ideas
+- Jumping on drag and droping objects
+- Tranfering items from past level
+- Moving imoveble objects
+- Beeing pushed into the wall by a moving platform
+- Entering a level twice to get 2 boxes
+- Go thru a wall
+- Load level twice and get 2 boxes
+- Gain speed and go thru a wall
+- Can double jump if spam on space
+
+- 2 Doors one is bait one is not
+- Hack the fall damage
+- Get thru a wall by explosion
+
+
+TODO
+- Add a menu on Esc and make it possible that you can go to any past level.
+- Add a sliding animation for all the buttons in the pause
+- Add fall damage
+- Add hints to levels
